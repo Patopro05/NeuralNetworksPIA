@@ -17,7 +17,7 @@ Docente: Dr. Tomás Eloy Salais Fierro.
 
 ## **Instrucciones de uso:**
 1. **Abrir terminal/VS Code**: Abra una terminal limpia en su computadora y escriba el siguiente comando para descargarse la carpeta del proyecto contenida en el repositorio:  
-```git clone https://github.com/TuUsuario/NeuralNetworksPIA.git```
+```git clone https://github.com/Patopro05/NeuralNetworksPIA.git```
 
 2. **Entrar al proyecto**: Escriba ```cd NeuralNetworksPIA```  para entrar a la carpeta que acaba de descargar.
 (Al abrir la carpeta, verá la app.py, el script train.py, el modelo modelo_alzheimer.h5, y la carpeta TestingImages).

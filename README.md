@@ -37,11 +37,12 @@ La red neuronal le dará el diagnóstico y el porcentaje de confianza en pantall
 
 ## **Enlaces externos**
 + Kaggle: [Augmented Alzheimer MRI Dataset](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset/data)
-+ Reporte: 
-+ Presentación: 
++ Reporte: [Reporte de proyecto](https://drive.google.com/file/d/1iUfkCUX0ww84h9a1-e_dOY3YvAYhAOy_/view?usp=sharing)
++ Presentación: [Presentación de proyecto](https://drive.google.com/file/d/1_YaK8goSyNN9R6GEB2fPCtxX-VMDKzcO/view?usp=sharing)
 + Repositorio: [Neural Networks PIA](https://github.com/Patopro05/NeuralNetworksPIA)
 + Python: [Descarga oficial de Python](https://www.python.org/downloads/)
 + Git: [Descarga oficial de Git](https://git-scm.com/install/windows)
 + Visual Studio Code: [Descarga oficial de Visual Studio Code](https://code.visualstudio.com/download)
++ Google Drive: [Carpeta de instructivos](https://drive.google.com/drive/folders/1xbnKoJmRTpxE4q4yiI3q5Qtay9qyTmG7?usp=sharing)
 
 [^1]: Disclaimer: La precisión clínica de este proyecto decae conforme el dataset utilizado para el entrenamiento de la red neuronal sea modificado de su versión original. Este software se realizó con fines educativos en materia del funcionamiento de las redes neuronales y la arquitectura moderna de los algoritmos de aprendizaje computacional; este software no debe usarse con fines clínicos, diagnóstico y/o monitoreo de patologías neuronales en pacientes que hayan realizado pruebas de Imagen de Resonancia Magnética (MRI).
